@@ -51,6 +51,6 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "styled-jsx": "3.2.4",
-    "validator": "12.2.0"
+    "validator": "13.7.0"
   }
 }
